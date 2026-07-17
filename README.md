@@ -71,9 +71,9 @@ It automatically receives incoming emails, analyzes them using AI, updates a CRM
 
 ## Future Improvements
 
-- Client Memory
-- Follow-up Automation
-- Dashboard Analytics
-- Slack Notifications
-- WhatsApp Integration
-- CRM Integrations
+## Future Improvements
+
+- Add RAG knowledge base
+- Add Telegram notifications
+- Add CRM integration
+- Add multi-language replies
