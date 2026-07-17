@@ -73,7 +73,7 @@ It automatically receives incoming emails, analyzes them using AI, updates a CRM
 
 ## Future Improvements
 
-- Add RAG knowledge base
-- Add Telegram notifications
-- Add CRM integration
-- Add multi-language replies
+- RAG knowledge base
+- Telegram notifications
+- CRM integration
+- multi-language replies
