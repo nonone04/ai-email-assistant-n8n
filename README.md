@@ -75,3 +75,20 @@ It automatically receives incoming emails, analyzes them using AI, updates a CRM
 - Telegram notifications
 - CRM integration
 - multi-language replies
+
+- ## Setup
+
+1. Import the JSON workflow into n8n
+2. Connect Gmail API
+3. Add OpenAI API key
+4. Connect Google Sheets
+5. Activate the workflow
+
+## Version
+
+Current Version: v1.0
+
+Next Version:
+- Better memory
+- RAG integration
+- Human approval system
